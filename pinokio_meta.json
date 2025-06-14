@@ -20,5 +20,11 @@
       "title": "Discord",
       "value": "https://discord.gg/mvDcrA57AQ"
     }]
+  }, {
+    "title": "Morpheus (wrote the launcher)",
+    "links": [{
+      "title": "Github",
+      "value": "https://github.com/6Morpheus6"
+    }]
   }]
 }

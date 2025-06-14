@@ -16,6 +16,18 @@ module.exports = {
       }
     },
     {
+      method: "shell.run",
+      params: {
+        path: "app",
+        message: [
+          "curl -L -o gpustack-ui-latest.tar.gz https://gpustack-ui-1303613262.cos.accelerate.myqcloud.com/releases/latest.tar.gz",
+          "tar -xzf gpustack-ui-latest.tar.gz -C gpustack/",
+          "mv gpustack/dist gpustack/ui",
+          "rm gpustack-ui-latest.tar.gz"
+        ]
+      }
+    },
+    {
       when: "{{platform === 'win32'}}",
       method: "shell.run",
       params: {

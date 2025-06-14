@@ -5,30 +5,40 @@
     "",
     ""
   ],
-  "links": [{
-    "title": "SUP3RMASS1VE (Wrote the launcher)",
-    "links": [{
-      "type": "bitcoin",
-      "value": "1N942jHr6vVuR2KAe2JEf3nN59eR21tpKv"
-    }, {
-      "title": "X",
-      "value": "https://x.com/SUP3RMASS1VE"
-    }, {
-      "title": "Github",
-      "value": "https://github.com/SUP3RMASS1VE"
-    }, {
-      "title": "Discord",
-      "value": "https://discord.gg/mvDcrA57AQ"
-    }]
-  }, {
-    "title": "Morpheus (wrote the launcher)",
-    "links": [{
-      "title": "Github",
-      "value": "https://github.com/6Morpheus6"
-    }]
-  }, {
-    "title": "asfdasfasefsadf (wrote the launcher)",
-    "links": [{
-      }]
-  }]
+  "links": [
+    {
+      "title": "SUP3RMASS1VE (Wrote the launcher)",
+      "links": [
+        {
+          "type": "bitcoin",
+          "value": "1N942jHr6vVuR2KAe2JEf3nN59eR21tpKv"
+        },
+        {
+          "title": "X",
+          "value": "https://x.com/SUP3RMASS1VE"
+        },
+        {
+          "title": "Github",
+          "value": "https://github.com/SUP3RMASS1VE"
+        },
+        {
+          "title": "Discord",
+          "value": "https://discord.gg/mvDcrA57AQ"
+        }
+      ]
+    },
+    {
+      "title": "Morpheus (wrote the launcher)",
+      "links": [
+        {
+          "title": "Github",
+          "value": "https://github.com/6Morpheus6"
+        }
+      ]
+    },
+    {
+      "title": "asfdasfasefsadf (wrote the launcher)",
+      "links": []
+    }
+  ]
 }
